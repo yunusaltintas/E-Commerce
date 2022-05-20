@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.deps.json
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.runtimeconfig.json
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.dll
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.pdb
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfo.cs
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.dll
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\refint\Ecommerce.Data.dll
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.pdb
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.genruntimeconfig.cache
+C:\Users\yunus\source\repos\ECommerce\Ecommerce.Data\obj\Debug\net6.0\ref\Ecommerce.Data.dll

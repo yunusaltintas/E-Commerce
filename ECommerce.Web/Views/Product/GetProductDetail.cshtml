@@ -1,0 +1,77 @@
+﻿@model Ecommerce.Data.ResponseModel.ReturnParameterModel<Ecommerce.Data.Entities.Product>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetProductDetailAsync</title>
+</head>
+<body>
+    @if (Model.success == true)
+    {
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-3">
+                    <img src="/img/@Model.Model.FilePic" class="w-100 img-thumbnail" alt="@Model.Model.ProductName" />
+                </div>
+
+                <div class="col-md-9">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>@Model.Model.ProductName</h5>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">@Model.Model.ProductName</h5>
+                            <p class="card-text">@Model.Model.Price</p>
+                            <a href="#" class="btn btn-primary float-right ml-1">Add To Card</a>
+                            <a asp-action="Index" asp-controller="Home" class="btn btn-danger float-right">Back</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-8 col-lg-6">
+                        <div class="card shadow-0 border" style="background-color: #f0f2f5;">
+                            <div class="card-body p-4">
+                                <div class="form-outline mb-4">
+                                    <input type="text" id="addANote" class="form-control" placeholder="Type comment..." />
+                                    <label class="form-label" for="addANote">+ Add a note</label>
+                                </div>
+                                @foreach (var item in @Model.Model.Comments)
+                                {
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <p>@item.Comments</p>
+
+                                            <div class="d-flex justify-content-between">
+                                                <div class="d-flex flex-row align-items-center">
+                                                    
+                                                    <p class="small mb-0 ms-2">@item.Users.First().User.UserName.ToUpper()</p>
+                                                </div>
+                                                <div class="d-flex flex-row align-items-center">
+                                                    <p class="small text-muted mb-0">Vote</p>
+                                                    <i class="far fa-thumbs-up mx-2 fa-xs text-black" style="margin-top: -0.16rem;"></i>
+                                                    <p class="small text-muted mb-0">0</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    }
+
+</body>
+</html>

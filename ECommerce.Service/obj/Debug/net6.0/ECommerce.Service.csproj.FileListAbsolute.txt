@@ -1,0 +1,17 @@
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\ECommerce.Service.deps.json
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\ECommerce.Service.dll
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\ECommerce.Service.pdb
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\Ecommerce.Data.dll
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\ECommerce.Repository.dll
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\ECommerce.Repository.pdb
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\bin\Debug\net6.0\Ecommerce.Data.pdb
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.AssemblyInfo.cs
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.csproj.CopyComplete
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.dll
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\refint\ECommerce.Service.dll
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ECommerce.Service.pdb
+C:\Users\yunus\source\repos\ECommerce\ECommerce.Service\obj\Debug\net6.0\ref\ECommerce.Service.dll
